@@ -2,6 +2,7 @@
 - 👀 I’m interested in web Development, cybersec.
 - 🌱 I’m currently learning Assambly, React and other things
 - 💞️ I’m looking to collaborate on open source projects
+-   Im a JoJo Fan
 - 📫 How to reach me:
 - 
 - Email: rafaeldtr41@gmail.com
